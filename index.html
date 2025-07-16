@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Exercício HTML + CSS Avançado - Profile Card</title>
 
+    <link rel="stylesheet" href="./assets/CSS/reset.css">
     <link rel="stylesheet" href="./assets/CSS/globals.css" />
     <link rel="stylesheet" href="./assets/CSS/style.css" />
 
@@ -16,31 +17,29 @@
     />
   </head>
   <body>
-    <main>
-      <div class="container">
-        <div class="perfil">
-          <img
-            src="./assets/img/prince-akachi-J1OScm_uHUQ-unsplash.jpg"
-            alt="Foto de Perfil"
-          />
-          <h1>Rafaela D. Ribeiro <strong>25</strong></h1>
-          <p>London</p>
+    <main class="container">
+        <div class="card">
+            <div class="profile-informations">
+                <img src="./assets/img/image-victor.jpg" alt="Victor Crest profile">
+                <p>Victor Crest <span class="age">26</span></p>
+                <span class="city">London</span>
+            </div>
+            <hr>
+            <ul class="profile-numbers">
+                <li class="info">
+                    <p class="counter">80K</p>
+                    <span class="counter-type">Followers</sp>
+                </li>
+                <li class="info">
+                    <p class="counter">803K</p>
+                    <span class="counter-type">Likes</span>
+                </li>
+                <li class="info">
+                    <p class="counter">1.4K</p>
+                    <span class="counter-type">Photos</span>
+                </li>
+            </ul>
         </div>
-        <div class="status">
-          <div>
-            <h2>80k</h2>
-            <p>Followers</p>
-          </div>
-          <div>
-            <h2>803K</h2>
-            <p>Likes</p>
-          </div>
-          <div>
-            <h2>1.4K</h2>
-            <p>Photos</p>
-          </div>
-        </div>
-      </div>
     </main>
-  </body>
+</body>
 </html>
