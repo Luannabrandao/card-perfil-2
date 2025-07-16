@@ -4,7 +4,7 @@ Um cartão de perfil moderno e responsivo que exibe informações básicas de um
 
 ## 📸 Captura de Tela
 
-!<img width="2577" height="1397" alt="image" src="https://github.com/user-attachments/assets/7f12bc8a-bc9e-4f24-b099-2bf9d732e9c7" />
+<img width="2577" height="1397" alt="image" src="https://github.com/user-attachments/assets/7f12bc8a-bc9e-4f24-b099-2bf9d732e9c7" />
 
 
 
