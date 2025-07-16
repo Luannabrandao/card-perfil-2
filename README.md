@@ -4,7 +4,8 @@ Um cartão de perfil moderno e responsivo que exibe informações básicas de um
 
 ## 📸 Captura de Tela
 
-![screencapture-file-C-Users-lu-ro-Downloads-Exercicio-HTML-CSS-Avancado-Profile-Card-index-html-2025-05-19-17_34_15](https://github.com/user-attachments/assets/b5ed1be6-14c3-4a26-b771-03aa10de0f86)
+!<img width="2577" height="1397" alt="image" src="https://github.com/user-attachments/assets/7f12bc8a-bc9e-4f24-b099-2bf9d732e9c7" />
+
 
 
 ## 📝 Descrição
